@@ -1,0 +1,10 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon,
+.carousel-indicators {
+  /* Invert the color of the carousel controls: white to black to contrast with SIA app screenshots */
+  filter: invert(100%); 
+}
+
+.carousel {
+  margin-bottom: 50px;
+}
