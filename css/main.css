@@ -6,3 +6,20 @@ main {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.custom-card-container {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-wrap: wrap;
+  width: 100%; 
+}
+
+.contributor-card {
+  width: 300px;
+}
+
+.contributor-card-container {
+  display: inline-block;
+  margin: 10px;
+}
